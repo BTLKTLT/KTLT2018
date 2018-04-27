@@ -1,0 +1,15 @@
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\bin\x86\Debug\BKLeauge_KTLT.exe.config
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\bin\x86\Debug\BKLeauge_KTLT.exe
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\bin\x86\Debug\BKLeauge_KTLT.pdb
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.Properties.Resources.resources
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.csproj.GenerateResource.cache
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.csproj.CoreCompileInputs.cache
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.exe
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.pdb
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.csprojResolveAssemblyReference.cache
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.BKLeague.resources
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.Results.resources
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.Update.resources
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.Info.resources
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.Schedule.resources
+E:\KTLT\BKLeauge_KTLT\BKLeauge_KTLT\obj\x86\Debug\BKLeauge_KTLT.UpdateClub.resources
