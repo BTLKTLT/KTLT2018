@@ -46,7 +46,7 @@
             this.label6 = new System.Windows.Forms.Label();
             this.CMND = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.NAME = new System.Windows.Forms.TextBox();
+            this.HOTEN = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.MSSV = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -56,6 +56,8 @@
             this.addbtn = new System.Windows.Forms.Button();
             this.label12 = new System.Windows.Forms.Label();
             this.QUOCTICH = new System.Windows.Forms.TextBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.DIACHI = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -97,6 +99,8 @@
             // groupBox2
             // 
             this.groupBox2.BackColor = System.Drawing.Color.White;
+            this.groupBox2.Controls.Add(this.DIACHI);
+            this.groupBox2.Controls.Add(this.label13);
             this.groupBox2.Controls.Add(this.QUOCTICH);
             this.groupBox2.Controls.Add(this.label12);
             this.groupBox2.Controls.Add(this.SO);
@@ -113,7 +117,7 @@
             this.groupBox2.Controls.Add(this.label6);
             this.groupBox2.Controls.Add(this.CMND);
             this.groupBox2.Controls.Add(this.label5);
-            this.groupBox2.Controls.Add(this.NAME);
+            this.groupBox2.Controls.Add(this.HOTEN);
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Controls.Add(this.MSSV);
             this.groupBox2.Controls.Add(this.label3);
@@ -251,12 +255,12 @@
             this.label5.TabIndex = 6;
             this.label5.Text = "Cân nặng";
             // 
-            // NAME
+            // HOTEN
             // 
-            this.NAME.Location = new System.Drawing.Point(127, 98);
-            this.NAME.Name = "NAME";
-            this.NAME.Size = new System.Drawing.Size(170, 20);
-            this.NAME.TabIndex = 5;
+            this.HOTEN.Location = new System.Drawing.Point(127, 98);
+            this.HOTEN.Name = "HOTEN";
+            this.HOTEN.Size = new System.Drawing.Size(170, 20);
+            this.HOTEN.TabIndex = 5;
             // 
             // label4
             // 
@@ -301,9 +305,9 @@
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(13)))), ((int)(((byte)(40)))));
             this.label2.Location = new System.Drawing.Point(29, 101);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(63, 17);
+            this.label2.Size = new System.Drawing.Size(53, 17);
             this.label2.TabIndex = 0;
-            this.label2.Text = "HOTEN";
+            this.label2.Text = "Họ tên";
             // 
             // delete
             // 
@@ -358,6 +362,24 @@
             this.QUOCTICH.Size = new System.Drawing.Size(170, 20);
             this.QUOCTICH.TabIndex = 21;
             // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(13)))), ((int)(((byte)(40)))));
+            this.label13.Location = new System.Drawing.Point(29, 236);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(53, 17);
+            this.label13.TabIndex = 22;
+            this.label13.Text = "Địa chỉ";
+            // 
+            // DIACHI
+            // 
+            this.DIACHI.Location = new System.Drawing.Point(127, 236);
+            this.DIACHI.Name = "DIACHI";
+            this.DIACHI.Size = new System.Drawing.Size(170, 20);
+            this.DIACHI.TabIndex = 23;
+            // 
             // Update
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -397,7 +419,7 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox CMND;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox NAME;
+        private System.Windows.Forms.TextBox HOTEN;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox MSSV;
         private System.Windows.Forms.Label label3;
@@ -411,5 +433,7 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox QUOCTICH;
         private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.TextBox DIACHI;
+        private System.Windows.Forms.Label label13;
     }
 }

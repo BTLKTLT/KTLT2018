@@ -26,7 +26,8 @@ namespace BKLeauge_KTLT
             using (SqlConnection con = new SqlConnection(connectionString))
             {
                 con.Open();
-                SqlDataAdapter adapt = new SqlDataAdapter("insert into CAUTHU(MACT,HOTEN,CMND,MSSV,CHIEUCAO,CANNANG,VITRI,NGAYSINH,MACLB,QUOCTICH,SO) values ("MACT.Text",) ",con);
+                String sql = "insert into CAUTHU values('" + MACT.Text + "','" + HOTEN.Text + "','" + CMND.Text + "','" + MSSV.Text + "','" + CHIEUCAO.Text + "','" + CANNANG.Text + "','" + VITRI.Text + "','" + NGAYSINH.Text + "','" + DIACHI.Text + "','" + MACLB.Text + "','" + QUOCTICH.Text + "','" + SO.Text + "')";
+                SqlDataAdapter adapt = new SqlDataAdapter(sql, con);
                 DataTable dt = new DataTable();
                 adapt.Fill(dt);
                 con.Close();
@@ -43,7 +44,15 @@ namespace BKLeauge_KTLT
         //Kết nối SQL và viết câu truy vấn xóa thông tin theo MSSV thông tin trong các textbox
         private void button1_Click(object sender, EventArgs e)
         {
-
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                con.Open();
+                String sql = "delete from cauthu where MACT like '%"+MACT.Text+"%'or '%"+HOTEN.Text+"%'";
+                SqlDataAdapter adapt = new SqlDataAdapter(sql, con);
+                DataTable dt = new DataTable();
+                adapt.Fill(dt);
+                con.Close();
+            }
         }
 
        
