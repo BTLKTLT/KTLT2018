@@ -1,0 +1,9 @@
+E:\KTLT\BKLeauge_KTLT\AtheleInfo\bin\x86\Debug\AtheleInfo.exe.config
+E:\KTLT\BKLeauge_KTLT\AtheleInfo\bin\x86\Debug\AtheleInfo.exe
+E:\KTLT\BKLeauge_KTLT\AtheleInfo\bin\x86\Debug\AtheleInfo.pdb
+E:\KTLT\BKLeauge_KTLT\AtheleInfo\obj\x86\Debug\AtheleInfo.Info.resources
+E:\KTLT\BKLeauge_KTLT\AtheleInfo\obj\x86\Debug\AtheleInfo.Properties.Resources.resources
+E:\KTLT\BKLeauge_KTLT\AtheleInfo\obj\x86\Debug\AtheleInfo.csproj.GenerateResource.cache
+E:\KTLT\BKLeauge_KTLT\AtheleInfo\obj\x86\Debug\AtheleInfo.csproj.CoreCompileInputs.cache
+E:\KTLT\BKLeauge_KTLT\AtheleInfo\obj\x86\Debug\AtheleInfo.exe
+E:\KTLT\BKLeauge_KTLT\AtheleInfo\obj\x86\Debug\AtheleInfo.pdb

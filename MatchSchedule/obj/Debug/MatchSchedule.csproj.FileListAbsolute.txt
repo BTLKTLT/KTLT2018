@@ -1,0 +1,10 @@
+E:\KTLT\BKLeauge_KTLT\MatchSchedule\bin\Debug\MatchSchedule.exe.config
+E:\KTLT\BKLeauge_KTLT\MatchSchedule\bin\Debug\MatchSchedule.exe
+E:\KTLT\BKLeauge_KTLT\MatchSchedule\bin\Debug\MatchSchedule.pdb
+E:\KTLT\BKLeauge_KTLT\MatchSchedule\obj\Debug\MatchSchedule.Properties.Resources.resources
+E:\KTLT\BKLeauge_KTLT\MatchSchedule\obj\Debug\MatchSchedule.csproj.GenerateResource.cache
+E:\KTLT\BKLeauge_KTLT\MatchSchedule\obj\Debug\MatchSchedule.csproj.CoreCompileInputs.cache
+E:\KTLT\BKLeauge_KTLT\MatchSchedule\obj\Debug\MatchSchedule.exe
+E:\KTLT\BKLeauge_KTLT\MatchSchedule\obj\Debug\MatchSchedule.pdb
+E:\KTLT\BKLeauge_KTLT\MatchSchedule\obj\Debug\MatchSchedule.csprojResolveAssemblyReference.cache
+E:\KTLT\BKLeauge_KTLT\MatchSchedule\obj\Debug\MatchSchedule.Schedule.resources
